@@ -1,5 +1,11 @@
 🔍 Streamlit Text Analyzer
 
+## 📸 Demo
+![project demo](screenshot11.png)
+![project demo](screenshot1.png)
+![project demo](screenshot.png)
+
+
 Enhance your text analysis with an interactive and user-friendly web application built using Streamlit.
 
 🚀 Features
