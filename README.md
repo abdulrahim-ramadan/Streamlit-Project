@@ -1,6 +1,9 @@
 🔍 Streamlit Text Analyzer
 
 ## 📸 Demo
+
+https://app-project-jhspqzc42sqvffb6pp5dw7.streamlit.app
+
 ![project demo](screenshot11.png)
 ![project demo](screenshot1.png)
 ![project demo](screenshot.png)
