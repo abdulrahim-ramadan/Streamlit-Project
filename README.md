@@ -2,7 +2,7 @@
 
 ## 📸 Demo
 
-https://app-project-jhspqzc42sqvffb6pp5dw7.streamlit.app
+https://demo44.streamlit.app
 
 ![project demo](screenshot11.png)
 ![project demo](screenshot1.png)
